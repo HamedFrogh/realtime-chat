@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a93dcda7-bc73-4818-b322-5e2b0c7807e4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SocketExample" beforeDir="false" afterPath="$PROJECT_DIR$/SocketExample" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SocketExample/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/SocketExample/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SocketExample/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/SocketExample/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SocketExample/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/SocketExample/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SocketExample/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/SocketExample/src/app/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SocketExample/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/SocketExample/src/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +13,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/SocketExample" />
   </component>
+  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "customColor": "",
   "associatedIndex": 1
@@ -41,6 +37,8 @@
     "git-widget-placeholder": "master",
     "go.import.settings.migrated": "true",
     "last_opened_file_path": "C:/Users/hamed",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
